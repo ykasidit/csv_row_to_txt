@@ -6,7 +6,7 @@ This is just a small example/excercise for those who like to learn about python 
 Run
 ---
 
-`python test_csv_rows_to_docs.py`
+Open terminal and enter commend: `python test_main_command.py`
 
-See example command in `test_csv_rows_to_docs.py`
+See example command, example csv as used in `test_main_command.py`
 
